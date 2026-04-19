@@ -13,4 +13,4 @@ Topics covered:
 - Docker best practices
 
 YouTube playlist:
-(link)
+https://www.youtube.com/watch?v=n9skN9Y2m2E&list=PLuVgCYTpvMu9WV1XDeOP7i8DxK4gP3ycK 
