@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            fetch("/api/hello")
+                .then(res => res.json())
+                .then(data => {
+                    document.body.innerText = data.message
+                })
+        </script>
+    </body>
+</html>
